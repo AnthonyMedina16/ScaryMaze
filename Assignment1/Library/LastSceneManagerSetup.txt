@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/CMPM121HW#1.unity
+  isLoaded: 1
+  isActive: 1
